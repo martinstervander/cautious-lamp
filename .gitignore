@@ -1,6 +1,7 @@
 # Hide project specific files/folders
 
 *.ppt
+*.html
 
 # History files
 .Rhistory
